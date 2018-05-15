@@ -9,11 +9,9 @@
 		<key>location</key>
 		<dict>
 			<key>type</key>
-			<string>github</string>
+			<string>local</string>
 			<key>path</key>
-			<string>openssl/openssl</string>
-			<key>branch</key>
-			<string>master</string>
+			<string>openssl</string>
 		</dict>
 		<key>buildSystem</key>
 		<string>make</string>
