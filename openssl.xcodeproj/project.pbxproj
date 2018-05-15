@@ -130,7 +130,7 @@
 			buildConfigurationList = 3CB476601FF75AFD00C6B265 /* Build configuration list for PBXLegacyTarget "libssl" */;
 			buildPhases = (
 			);
-			buildToolPath = /usr/local/bin/ibuild;
+			buildToolPath = "${HOME}/bin/ibuild";
 			buildWorkingDirectory = "$(SRCROOT)";
 			dependencies = (
 			);
