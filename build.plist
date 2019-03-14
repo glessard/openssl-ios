@@ -61,7 +61,9 @@
 		<key>auxiliaryFiles</key>
 		<dict>
 			<key>Framework/module.static.modulemap</key>
-			<string>include/module.modulemap</string>
+			<string>include/openssl/module.modulemap</string>
+			<key>Framework/shim.h</key>
+			<string>include/openssl/shim.h</string>
 		</dict>
 	</dict>
 	<key>dependencies</key>
